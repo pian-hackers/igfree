@@ -7,9 +7,9 @@ $ pip install requests
 
 $ pip install rich
 
-$ git clone https://github.com/pian-hackers/AMT
+$ git clone https://github.com/pian-hackers/igfree
 
-$ cd AMT
+$ cd igfree
 
 $ ls
 
