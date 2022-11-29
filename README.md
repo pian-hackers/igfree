@@ -2,17 +2,18 @@
 # MAKE DOANG GA FOLLOW
 
 #JALANKAN SC
-pip install requests
 
-pip install rich
+$ pip install requests
 
-git clone https://github.com/pian-hackers/AMT
+$ pip install rich
 
-cd AMT
+$ git clone https://github.com/pian-hackers/AMT
 
-ls
+$ cd AMT
 
-git pull
+$ ls
 
-python pixn.py
+$ git pull
+
+$ python pixn.py
 
